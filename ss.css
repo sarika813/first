@@ -3,7 +3,6 @@ body {
     display: flex;
     flex-direction: column;   
     background-image:url("bee.jpg");
-    background-color: #0079bf;
     background-attachment:fixed;
     height:100vh;
   }
